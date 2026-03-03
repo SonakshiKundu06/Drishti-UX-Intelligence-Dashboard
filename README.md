@@ -7,9 +7,8 @@ Drishti-AX is a high-performance analytics dashboard designed to transform raw a
 
 ## 📽️ Dashboard Demonstration
 
+Kindly look into the file named Vedio.
 
-
-[![Drishti-AX Walkthrough]("C:\Users\insp 5430\Videos\Screen Recordings\Screen Recording 2026-02-25 012147.mp4")]
 
 > *Demonstrating the real-time Redemption Simulator and the Forensic Engine in action.*
 
